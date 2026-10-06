@@ -5,4 +5,13 @@
   "scripts": {
     "build": "mkdir -p .next && echo 'Build complete'"
   }
-}
+}<head>
+  <meta charset="UTF-8">
+  <title>MKgroup social and economic connection</title>
+  <meta name="description" content="Welcome to MKgroup social and economic connection. Explore our platform for social impact and economic development.">
+  <meta name="keywords" content="MKgroup, social connection, economic connection, MKgroup social and economic connection">
+  
+  <!-- This helps it look good when shared on WhatsApp/Facebook -->
+  <meta property="og:title" content="MKgroup social and economic connection">
+  <meta property="og:description" content="Connecting communities socially and economically.">
+</head>
